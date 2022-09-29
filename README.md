@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henrique Innecco</h1>
 <h3 align="center">A passionate data enthusiast from Brazil</h3>
 
-- 💬 Ask me about **SQL, Python, Power BI**
+- 💬 Ask me about **SQL, Python, Power BI, Spreadsheets**
 
 - 📫 How to reach me **hrinnecco@gmail.com**
 
